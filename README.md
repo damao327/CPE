@@ -1,7 +1,20 @@
 # CPE
 ## This is a H2 sized header
 #### This is a H4 sized header
+
+##### a link to an external web
 <www.baidu.com>
+##### a code block
+```
+int main(){
+  double x=0;
+  double y=1;
+  double a;
+  a=x+y;
+}
+```
+##### a block quote
+> ""
 ##### a bulleted list
 - Java
 - PHP
