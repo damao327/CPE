@@ -5,7 +5,7 @@
 ##### a link to an external web
 <www.baidu.com>
 ##### a link between markdown pages
-  [Another file](./README.md)
+  [Another file](./another.md)
 ##### an image that is a file in the directory
   ![Image text1](https://github.com/damao327/CPE/blob/main/image/testpic.png)
 ##### an image that is located on the web
