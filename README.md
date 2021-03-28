@@ -35,3 +35,6 @@ int main(){
 _this is a italicized text_
 
 ~~this is a strikethrough text~~
+
+##### a horizontal rule
+---
