@@ -4,6 +4,8 @@
 
 ##### a link to an external web
 <www.baidu.com>
+##### an image that is a file in the directory
+  ![Image text](
 ##### a code block
 ```
 int main(){
